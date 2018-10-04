@@ -4,7 +4,13 @@
 You can use the [editor on GitHub](https://github.com/kendrasmithtechwriting/kendrasmithtechwriting.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Introduction
 
+The (https://www.nationaleatingdisorders.org/) estimates that approximately 20 milllion women and 10 million men in the United States will face and eating disorder sometime during their lifetime. 
+
+ With that, in this blog I will discuss demographics, what eating disorders are and how they are defined, their signs/symptoms, potential causes for disordered eating, and the recovery process. 
+
+ You are not alone in this process, and RECOVERY IS POSSIBLE. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
